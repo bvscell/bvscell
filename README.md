@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 Hi, I’m @bvscell
+- 👀 I’m interested in Java, Node.js and others
 
 <!--
 **bvscell/bvscell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
